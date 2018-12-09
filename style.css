@@ -1,0 +1,224 @@
+h1{
+  font: "indie-flower";  
+}
+tag{
+    color:white;
+}
+.a{
+    text-align: center;
+}
+
+.body.html {
+    height: 50%;
+    font-family: "gudea", ;
+}
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://cdn.pixabay.com/photo/2016/05/04/19/05/cookies-1372607_960_720.jpg");
+    min-height: 75%;
+}
+.menu {
+    display: none;}
+    
+.recipe-button{
+    text-align:center;
+}
+
+.contacts-button{
+    text-align:center;
+}
+
+.menu-button{
+    text-align:center;
+}    
+ 
+.where-button{
+    text-align:center;
+}   
+ 
+ 
+ 
+html{
+    text-align:center;
+   
+}
+ 
+
+ 
+img.bakery{
+    size:600px;
+    max-width:98%;
+}
+ 
+
+ 
+body{
+    text-align:center;
+    padding-left:2px;
+     padding-right:2px;
+    font-family:courier;
+    background-color:#DBDAC7;
+    
+} 
+
+/* ↓ About section ↓ */
+div.about-the-bakery{
+   font-size:20px;
+   text-align:center;
+   padding-left:8px;
+   padding-right:8px;
+}
+ 
+h4.about-bakery{
+    text-align:center;
+    width:90%;
+    color:white;
+    background-color:black;
+    position: relative;
+    left:5%;
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:7px;
+}
+
+.quote{
+    background-color:#D2D2D2;
+} 
+
+.about-container{
+    text-align: center;
+    size:100px;
+    margin:auto;
+} 
+
+#about{
+    text-align:center;
+}
+
+/* ↑ About section ↑ */
+
+
+/*logo*/
+img.logo {
+    padding-top:10px;
+}
+img.logo2 {
+    position:fixed;
+    left:5%;
+    top:200px;
+}
+img.logo3 {
+    position:fixed;
+    right:5%;
+     top:200px;
+}
+/* top Menu */
+div.top{
+    font-family:courier ;
+    width: 100%;
+    background-color:#FFF757;
+    position:fixed;
+    top:.1;
+    left:0;
+    z-index:10;
+}
+
+table {
+    width:100%;
+    background-color:inherit;
+    text-align: center;
+}
+
+button{
+    background-color:inherit;
+    width:100%;
+    padding:18px;
+    text-decoration:none;
+    border:none;
+    font-family:"Montserrat";
+    height:1000%;
+    font-size:30px;
+} 
+button:hover {
+    background-color:#FFD1DC;
+    transition: all .5s;
+}
+
+.buttons{
+    font-family:"montserrat";
+}
+
+.slideshow{
+    border:0;
+}
+
+
+
+/* top Menu */
+
+.{
+    font-family:times;
+}
+
+img.pie{
+   height:300px; 
+   width:350px;
+}
+
+img.pie:hover {
+    height:350px; 
+   width:400px;
+    text-shadow: 3px 3px black;
+    transition: all .8s;
+}
+
+.menu-bakery{
+    text-align:center;
+}
+
+.th{
+    text-align:center;
+}
+
+table.table{
+    border-color: yellow;
+    background-color: mistyrose;
+    font-size:26px;
+    
+}
+
+.menu-bakery{
+    background-color:black;
+    color:white;
+}
+
+table.pictures { 
+    background-color:#DBDAC7;
+    width:98%;
+    
+    
+}
+
+div.gform {
+    position:absolute;
+    top:100px;
+    left:0px;
+    width:98%;
+    height:100%;
+    max-width:98%;
+}
+ iframe.form {
+     height:100%;
+     width:100%;
+     
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
